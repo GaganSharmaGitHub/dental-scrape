@@ -1,0 +1,7 @@
+SECURITY_TOKEN = "360"
+ALLOWED_RETRY_ATTEMPTS = 4
+SITE_TO_BE_SCRAPED = "https://dentalstall.com/shop/page/"
+RETRY_TIMEOUT = 10
+REDIS_HOST = "localhost"
+REDIS_PORT = 6379
+REDIS_DB = 0
